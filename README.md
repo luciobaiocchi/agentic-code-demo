@@ -27,3 +27,9 @@ launch main:
 ```bash 
 uv run main.py
 ```
+
+also create a .env file in the working dir and add:
+```bash
+GEMINI_API_KEY="your_api_key"
+```
+
