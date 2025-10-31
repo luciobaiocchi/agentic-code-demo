@@ -47,7 +47,7 @@ def main():
     #print("Prompt tokens: " + str(response.usage_metadata.prompt_token_count))
     #print("Response tokens: " + str(response.usage_metadata.candidates_token_count))
 
-def printResponse(response, user_prompt):
+def printResponse(response, user_promp):
     if (verbose):
         print("User prompt: " + user_prompt)
         print("Prompt tokens: " + str(response.usage_metadata.prompt_token_count))
