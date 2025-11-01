@@ -1,6 +1,6 @@
 import os
 
-# Implementation of a safe directory listing
+# Implementation of a safe file content listing
 #
 # ================= PARAMS ===========================================
 # working_directory = the root folder you allow the function to access, the "sandbox"
